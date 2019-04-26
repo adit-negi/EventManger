@@ -1,2 +1,1 @@
-# EventManger
-A basic event management app
+This a vent manager react app bootstraped with create react app
